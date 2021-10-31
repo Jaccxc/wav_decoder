@@ -7,3 +7,5 @@ No third party library used. Just compile 20210701wav.cpp and run.
 ./20210701wav.exe
 ```
 
+## Note
+The comments are written in zh_TW with BIG5 encoding.
